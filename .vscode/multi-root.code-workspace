@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "ROOT",
+            "path": "../"
+        },
+        {
+            "name": "service1",
+            "path": "../services/service1"
+        },
+        {
+            "name": "service2",
+            "path": "../services/service2"
+        },
+    ],
+    "settings": {
+        "files.exclude": {
+        }
+    }
+}
